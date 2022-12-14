@@ -1,6 +1,7 @@
 
-<img height = 1900 width = 20% align = left  src = '../Resources/Empty.svg' >
-<img height = 1900 width = 20% align = right src = '../Resources/Empty.svg' >
+<img height = 650 width = 28% align = left  src = '../Resources/Empty.svg' >
+<img height = 650 width = 28% align = right src = '../Resources/Empty.svg' >
+
 <div align = center>
 
 
@@ -36,6 +37,9 @@ cartridge turning it into a 96 DPI print platform.
 
 </div>
 
+<img height = 580 width = 32% align = left  src = '../Resources/Empty.svg' >
+<img height = 580 width = 32% align = right src = '../Resources/Empty.svg' >
+
 ## Features
 
 -   Extension cable for the inkjet head can  
@@ -63,6 +67,9 @@ cartridge turning it into a 96 DPI print platform.
 
 <br>
 <br>
+
+<img height = 650 width = 25% align = left  src = '../Resources/Empty.svg' >
+<img height = 650 width = 25% align = right src = '../Resources/Empty.svg' >
 
 ## Projects
 
