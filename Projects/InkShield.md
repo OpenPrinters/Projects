@@ -1,6 +1,6 @@
 
-<img height = 650 width = 28% align = left  src = '../Resources/Empty.svg' >
-<img height = 650 width = 28% align = right src = '../Resources/Empty.svg' >
+[<img height = 650 width = 28% align = left  src = '../Resources/Empty.svg' >][#]
+[<img height = 650 width = 28% align = right src = '../Resources/Empty.svg' >][#]
 
 <div align = center>
 
@@ -37,8 +37,8 @@ cartridge turning it into a 96 DPI print platform.
 
 </div>
 
-<img height = 580 width = 32% align = left  src = '../Resources/Empty.svg' >
-<img height = 580 width = 32% align = right src = '../Resources/Empty.svg' >
+[<img height = 580 width = 32% align = left  src = '../Resources/Empty.svg' >][#]
+[<img height = 580 width = 32% align = right src = '../Resources/Empty.svg' >][#]
 
 ## Features
 
@@ -68,8 +68,8 @@ cartridge turning it into a 96 DPI print platform.
 <br>
 <br>
 
-<img height = 650 width = 25% align = left  src = '../Resources/Empty.svg' >
-<img height = 650 width = 25% align = right src = '../Resources/Empty.svg' >
+[<img height = 650 width = 25% align = left  src = '../Resources/Empty.svg' >][#]
+[<img height = 650 width = 25% align = right src = '../Resources/Empty.svg' >][#]
 
 ## Projects
 
@@ -118,6 +118,7 @@ cartridge turning it into a 96 DPI print platform.
 [Store]: http://nerdcreationlab.com/store/
 
 [Thumbnail]: ../Resources/Projects/InkShield/Thumbnail.webp
+[#]: #
 
 
 <!---------------------------------[ Projects ]-------------------------------->
