@@ -18,6 +18,9 @@
 <br>
 <br>
 
+[<img height = 200 width = 5% align = left  src = 'Resources/Empty.svg' >][#]
+[<img height = 200 width = 5% align = right src = 'Resources/Empty.svg' >][#]
+
 [<img align = right height = 120 src = 'Resources/Projects/InkShield/Thumbnail.png' />][InkShield]
 
 ## **[InkShield]**
