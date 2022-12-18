@@ -18,7 +18,7 @@
 <br>
 <br>
 
-[<img align = right src = 'Resources/Projects/InkShield/Icon.png' />][InkShield]
+[<img align = right height = 120 src = 'Resources/Projects/InkShield/Thumbnail.png' />][InkShield]
 
 ## **[InkShield]**
 
